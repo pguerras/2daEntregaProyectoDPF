@@ -260,3 +260,9 @@ h2{
     border: 1px solid #97d848;
   }
 
+  .carousel-item img{
+   width:100%;
+
+  }
+
+  
